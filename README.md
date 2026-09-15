@@ -2,7 +2,7 @@
 
   <!-- ==================== HEADER BANNER ==================== -->
   <!-- Make sure to upload the 'watermarked_img_15285514564503459128.png' file to your repository -->
-  <img src="temp.png" alt="i' am Anujsw Banner" width="100%" />
+  <img src="watermarked_img_15285514564503459128.png" alt="i' am Anujsw Banner" width="100%" />
 
   <br/><br/>
 
@@ -55,7 +55,9 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Astronaut" width="260" />
+      <!-- ==================== PROFILE VIDEO ==================== -->
+      <!-- Make sure 'temp2.mp4' is uploaded to your repository -->
+      <video src="temp2.mp4" autoplay loop muted playsinline width="260"></video>
     </td>
   </tr>
 </table>
