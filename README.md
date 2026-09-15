@@ -2,7 +2,7 @@
 
   <!-- ==================== HEADER BANNER ==================== -->
   <!-- Make sure to upload the 'watermarked_img_15285514564503459128.png' file to your repository -->
-  <img src="temp.png" alt="i' am Anujsw Banner" width="100%" />
+  <img src="watermarked_img_15285514564503459128.png" alt="i' am Anujsw Banner" width="100%" />
 
   <br/><br/>
 
@@ -20,11 +20,11 @@
   <br/>
 
   <!-- ==================== SOCIAL / PROFILE BADGES ==================== -->
-  <!-- ADJUST YOURSELF: Update usernames/links as needed -->
+  <!-- ADJUST YOURSELF: Update GitHub username -->
   <a href="https://linkedin.com/in/anuj-wadnere-7b5158197">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="Anuj Wadnere | LinkedIn" />
   </a>
-  <a href="mailto:awadnerell1@gmail.com">
+  <a href="mailto:anujwadnere2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Gmail" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
