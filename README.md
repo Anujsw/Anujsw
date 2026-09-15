@@ -57,7 +57,7 @@
     <td width="40%" align="center" valign="middle">
       <!-- ==================== PROFILE VIDEO ==================== -->
       <!-- Make sure 'temp2.mp4' is uploaded to your repository -->
-      <video src="temp2.mp4" autoplay loop muted playsinline width="260"></video>
+      <video src="gif.gif" autoplay loop muted playsinline width="260"></video>
     </td>
   </tr>
 </table>
