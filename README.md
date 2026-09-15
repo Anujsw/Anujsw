@@ -57,6 +57,9 @@
 ---
 
 <div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
   ###  Technologies & Skills
 
@@ -91,18 +94,14 @@
 * **Bus Route Finder System:** Relational database architecture with optimized SQL queries and ER modeling for transport networks.
 
 ---
-
 <div align="center">
 
-  ###  Statistics
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anujsw&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anujsw&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anujsw&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true" alt="Contribution Graph" width="95%" />
-  </p>
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=Anujsw&icon=0&color=0)](https://visitcount.itsvg.in)
+<div/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
