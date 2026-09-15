@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- ==================== HEADER BANNER ==================== -->
-  <!-- Make sure to upload the 'watermarked_img_15285514564503459128.png' file to your repository -->
   <img src="temp.png" alt="i' am Anujsw Banner" width="100%" />
 
   <br/><br/>
 
-  <!-- ==================== ANIMATED MOVING TEXT ==================== -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Computer+Vision+%7C+IoT+%7C+SQL;Vision+%E2%80%A2+Embedded+%E2%80%A2+Data" alt="Typing SVG" />
   </a>
@@ -19,8 +16,6 @@
 
   <br/>
 
-  <!-- ==================== SOCIAL / PROFILE BADGES ==================== -->
-  <!-- ADJUST YOURSELF: Update GitHub username -->
   <a href="https://linkedin.com/in/anuj-wadnere-7b5158197">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="Anuj Wadnere | LinkedIn" />
   </a>
@@ -35,7 +30,6 @@
 
 ---
 
-<!-- ==================== ABOUT ME SECTION ==================== -->
 ### 🚀 About Me
 
 <table>
@@ -55,16 +49,13 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- ==================== PROFILE VIDEO ==================== -->
-      <!-- Make sure 'temp2.mp4' is uploaded to your repository -->
-      <video src="gif.gif" autoplay loop muted playsinline width="260"></video>
+      <img src="gif.jpg" alt="Developer Desk Animation" width="260" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ==================== TECHNOLOGIES SECTION ==================== -->
 <div align="center">
 
   ### ⚙️ Technologies & Skills
@@ -92,7 +83,6 @@
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
 ### 🛠️ Key Projects
 
 * **Face Mask Detection System:** Real-time AI camera using a custom-trained YOLOv8 model and OpenCV with live confidence scoring and color-coded bounding boxes.
@@ -102,19 +92,15 @@
 
 ---
 
-<!-- ==================== STATISTICS SECTION ==================== -->
 <div align="center">
 
   ### 📈 Statistics
 
-  <!-- ADJUST YOURSELF: Replace "YOUR_GITHUB_USERNAME" with your actual GitHub handle -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
   </p>
 
-  <!-- Activity Contribution Graph -->
-  <!-- ADJUST YOURSELF: Replace "YOUR_GITHUB_USERNAME" here as well -->
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true" alt="Contribution Graph" width="95%" />
   </p>
