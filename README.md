@@ -49,7 +49,7 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="gif.jpg" alt="Developer Desk Animation" width="260" />
+      <img src="desk.gif" alt="Developer Desk Animation" width="260" />
     </td>
   </tr>
 </table>
