@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- ==================== HEADER BANNER (DARK THEME) ==================== -->
-  <!-- ADJUST YOURSELF: Replace with your custom dark banner image URL or local asset path -->
-  <img src="https://via.placeholder.com/1000x280/0d1117/58a6ff?text=Anuj+Sanjay+Wadnere+%7C+AI+%26+Data+Science+Engineer" alt="Header Banner" width="100%" />
+  <!-- ==================== HEADER BANNER ==================== -->
+  <!-- Make sure to upload the 'watermarked_img_15285514564503459128.png' file to your repository -->
+  <img src="watermarked_img_15285514564503459128.png" alt="i' am Anujsw Banner" width="100%" />
 
   <br/><br/>
 
@@ -20,7 +20,7 @@
 
   <br/>
 
-  <!-- ==================== SOCIAL / PROFILE BADGES (MONOCHROME / DARK) ==================== -->
+  <!-- ==================== SOCIAL / PROFILE BADGES ==================== -->
   <!-- ADJUST YOURSELF: Update usernames/links as needed -->
   <a href="https://linkedin.com/in/anuj-wadnere-7b5158197">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" />
@@ -44,16 +44,16 @@
     <td width="60%" valign="top">
       <!-- ADJUST YOURSELF: Customize your greeting, tone, and bio points -->
       <p>
-        <b>Anuj, Here</b> — an Artificial Intelligence & Data Science Engineering student specializing in Computer Vision, Edge/Embedded IoT Systems, and Scalable Data Architectures[cite: 1].
+        <b>Anuj, Here</b> — an Artificial Intelligence & Data Science Engineering student specializing in Computer Vision, Edge/Embedded IoT Systems, and Scalable Data Architectures.
       </p>
       <p>
-        I focus on building production-ready, real-time AI solutions using <b>YOLOv8</b>, <b>OpenCV</b>, and <b>TensorFlow</b>, while actively designing embedded automation systems with <b>Arduino</b> and <b>ESP32</b>[cite: 1].
+        I focus on building production-ready, real-time AI solutions using <b>YOLOv8</b>, <b>OpenCV</b>, and <b>TensorFlow</b>, while actively designing embedded automation systems with <b>Arduino</b> and <b>ESP32</b>.
       </p>
       <p>
-        Currently, I am pursuing my B.E. at <b>SNJB KBJ College of Engineering (SPPU)</b>, continuously refining my technical depth across Python, C++, SQL data modeling, and applied machine learning pipelines[cite: 1].
+        Currently, I am pursuing my B.E. at <b>SNJB KBJ College of Engineering (SPPU)</b>, continuously refining my technical depth across Python, C++, SQL data modeling, and applied machine learning pipelines.
       </p>
       <p>
-        My goal is simple: engineer dependable AI systems, build robust embedded hardware solutions, and solve complex problems with clean, scalable code[cite: 1].
+        My goal is simple: engineer dependable AI systems, build robust embedded hardware solutions, and solve complex problems with clean, scalable code.
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -96,14 +96,14 @@
 <!-- ==================== FEATURED PROJECTS ==================== -->
 ### 🛠️ Key Projects
 
-* **Face Mask Detection System:** Real-time AI camera using a custom-trained YOLOv8 model and OpenCV with live confidence scoring and color-coded bounding boxes[cite: 1].
-* **Intelligent Fault Detection System for Electrical Circuits:** Embedded IoT system monitoring voltage drops, wire disconnects, and environmental metrics[cite: 1].
-* **Home Automation System:** Bluetooth-enabled IoT controller for home appliances with ambient light and presence detection[cite: 1].
-* **Bus Route Finder System:** Relational database architecture with optimized SQL queries and ER modeling for transport networks[cite: 1].
+* **Face Mask Detection System:** Real-time AI camera using a custom-trained YOLOv8 model and OpenCV with live confidence scoring and color-coded bounding boxes.
+* **Intelligent Fault Detection System for Electrical Circuits:** Embedded IoT system monitoring voltage drops, wire disconnects, and environmental metrics.
+* **Home Automation System:** Bluetooth-enabled IoT controller for home appliances with ambient light and presence detection.
+* **Bus Route Finder System:** Relational database architecture with optimized SQL queries and ER modeling for transport networks.
 
 ---
 
-<!-- ==================== STATISTICS SECTION (DARK THEME) ==================== -->
+<!-- ==================== STATISTICS SECTION ==================== -->
 <div align="center">
 
   ### 📈 Statistics
