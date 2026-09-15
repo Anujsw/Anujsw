@@ -18,24 +18,29 @@
 
 ---
 
-### 👤 About me
+
+
+<!-- ==================== ABOUT ME SECTION ==================== -->
+### 👤 About Me
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="68%" valign="top">
       <p>
-        Hello There! I'm <b>Anuj Sanjay Wadnere</b>, an AI & Data Science Engineering student with hands-on experience in Computer Vision, IoT-based intelligent systems, and SQL-driven applications[cite: 7]. I focus on building end-to-end solutions ranging from custom real-time computer vision models to embedded hardware automation[cite: 8].
+        I am an <b>Artificial Intelligence & Data Science Engineer</b> specializing in <b>Computer Vision</b>, <b>Edge/Embedded IoT Systems</b>, and <b>Scalable Data Architectures</b>[cite: 1]. My engineering focus centers on deploying high-efficiency deep learning models—such as real-time object detection pipelines using YOLOv8 and OpenCV—and bridging algorithmic intelligence with physical microcontrollers[cite: 1].
+      </p>
+      <p>
+        <!-- ADJUST YOURSELF: Customize this summary statement or career objective -->
+        Driven by innovation and structured problem-solving, I lead embedded engineering projects from circuit architecture to deployment, backed by official intellectual property protection[cite: 1].
       </p>
       <ul>
-        <li>🏛️ <b>Education:</b> B.E. in Artificial Intelligence & Data Science at SNJB KBJ College of Engineering, Chandwad (SPPU) [cite: 49, 50, 51]</li>
-        <li>📍 <b>Location:</b> Nashik, Maharashtra, India [cite: 6]</li>
-        <li>💼 <b>Experience:</b> Former AI/Software Intern at Sachi Tech & Android/Web Development Intern at Google Developers (via AICTE) [cite: 11, 12, 16, 17]</li>
-        <li>📜 <b>Intellectual Property:</b> Government of India Copyright Owner for <i>"Intelligent Fault Detection System Using IoT"</i> (Reg. No. 7080/2025-CO/L) [cite: 30, 43]</li>
-        <li>🎯 <b>Interests:</b> Computer Vision, IoT Systems, Applied ML, and Embedded AI [cite: 52, 53, 54, 55, 56]</li>
+        <li>🎓 <b>Academic Track:</b> B.E. in Artificial Intelligence & Data Science at SNJB KBJ College of Engineering, Chandwad (SPPU)[cite: 1]</li>
+        <li>🎯 <b>Core Focus:</b> Real-time Computer Vision, Embedded AI, IoT Automation, and Applied Machine Learning[cite: 1]</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dark Coding GIF" width="220" />
+    <td width="32%" align="center" valign="middle">
+      <!-- ADJUST YOURSELF: Replace the GIF URL with your preferred developer, minimalist, or tech asset -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Activity GIF" width="230" />
     </td>
   </tr>
 </table>
