@@ -2,7 +2,7 @@
 
   <!-- ==================== HEADER BANNER ==================== -->
   <!-- Make sure to upload the 'watermarked_img_15285514564503459128.png' file to your repository -->
-  <img src="watermarked_img_15285514564503459128.png" alt="i' am Anujsw Banner" width="100%" />
+  <img src="temp.png" alt="i' am Anujsw Banner" width="100%" />
 
   <br/><br/>
 
