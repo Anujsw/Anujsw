@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <table>
   <tr>
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-  ### ⚙️ Technologies & Skills
+  ###  Technologies & Skills
 
   <p>
     <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22" alt="Python" />
@@ -83,7 +83,7 @@
 
 ---
 
-### 🛠️ Key Projects
+###  Key Projects
 
 * **Face Mask Detection System:** Real-time AI camera using a custom-trained YOLOv8 model and OpenCV with live confidence scoring and color-coded bounding boxes.
 * **Intelligent Fault Detection System for Electrical Circuits:** Embedded IoT system monitoring voltage drops, wire disconnects, and environmental metrics.
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-  ### 📈 Statistics
+  ###  Statistics
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
