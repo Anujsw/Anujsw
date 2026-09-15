@@ -2,15 +2,14 @@
 
   <!-- ==================== HEADER BANNER ==================== -->
   <!-- Make sure to upload the 'watermarked_img_15285514564503459128.png' file to your repository -->
-  <img src="temp.png" alt="i' am Anujsw Banner" width="100%" />
+  <img src="watermarked_img_15285514564503459128.png" alt="i' am Anujsw Banner" width="100%" />
 
   <br/><br/>
 
-  <!-- Subtitle / Role Track -->
-  <h3>AI & Data Science Engineer</h3>
-
-  <!-- Tagline / Motto -->
-  <code>Vision • Embedded • Data</code>
+  <!-- ==================== ANIMATED MOVING TEXT ==================== -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Computer+Vision+%7C+IoT+%7C+SQL;Vision+%E2%80%A2+Embedded+%E2%80%A2+Data" alt="Typing SVG" />
+  </a>
 
   <br/><br/>
 
@@ -42,7 +41,6 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <!-- ADJUST YOURSELF: Customize your greeting, tone, and bio points -->
       <p>
         <b>Anuj, Here</b> — an Artificial Intelligence & Data Science Engineering student specializing in Computer Vision, Edge/Embedded IoT Systems, and Scalable Data Architectures.
       </p>
@@ -57,7 +55,6 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- ADJUST YOURSELF: Replace with your preferred pixel-art astronaut or cyber graphic -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Astronaut" width="260" />
     </td>
   </tr>
